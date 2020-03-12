@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "firstName": "Dima",
+  "lastName" : "Piratov",
+  "active": true,
+  "address": {
+    "street": "Germanstrasse",
+    "city": "Petrort",
+    "zip": "101010",
+    "country": "USA"
+  },
+  "languages": ["English","Russian","Czech","German"]
+}
